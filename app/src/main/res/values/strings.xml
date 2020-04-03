@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PermisisonApplication</string>
+    <string name="permission_requirement_text">You will location permission to use this application. Please enable permisison from application settings.</string>
+    <string name="open_settings_text">Open Settings</string>
+</resources>
